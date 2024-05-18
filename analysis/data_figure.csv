@@ -1,0 +1,19 @@
+variable;independent_variable;effect;direction;lower_B;upper_B;p_value;R2;R2_adj
+N;Soil exchangeable bases & base cation stocks;0.02;positive;0.01;0.03;<0.001;;
+N;Soil CNP & nutrient exchange;0.05;positive;0.02;0.09;0.006;;
+P;Soil exchangeable bases & base cation stocks;23.25;positive;12.29;34.22;<0.001;;
+P;Soil CNP & nutrient exchange;70.15;positive;34.19;106.11;<0.001;;
+CN;Soil exchangeable bases & base cation stocks;-0.2;negative;-0.3;-0.11;<0.001;;
+CN;Soil CNP & nutrient exchange;-0.45;negative;-0.77;-0.14;0.007;;
+CP;Soil exchangeable bases & base cation stocks;-5.57;negative;-8.34;-2.79;<0.001;;
+CP;Soil CNP & nutrient exchange;-15.04;negative;-24.14;-5.95;0.002;;
+NP;Soil exchangeable bases & base cation stocks;-0.06;negative;-0.17;0.05;0.276;;
+NP;Soil CNP & nutrient exchange;-0.42;negative;-0.78;-0.07;0.021;;
+Ca;Soil exchangeable bases & base cation stocks;230.83;positive;188.49;273.17;<0.001;;
+Ca;Soil CNP & nutrient exchange;10.37;positive;-128.54;149.28;0.88;;
+K;Soil exchangeable bases & base cation stocks;223.65;positive;110.17;337.14;<0.001;;
+K;Soil CNP & nutrient exchange;124.66;positive;-247.66;496.98;0.499;;
+Mg;Soil exchangeable bases & base cation stocks;30.17;positive;8.62;51.71;0.008;;
+Mg;Soil CNP & nutrient exchange;73.41;positive;2.72;144.1;0.042;;
+Na;Soil exchangeable bases & base cation stocks;3.03;positive;2.16;3.91;<0.001;;
+Na;Soil CNP & nutrient exchange;-3.43;negative;-6.29;-0.56;0.021;;
