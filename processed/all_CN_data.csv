@@ -1,0 +1,166 @@
+plotID,region,CN,type
+KBPL10,Mafic,27.18160547,Litterfall
+KBPL11,Mafic,38.93051945,Litterfall
+KBPL12,Mafic,55.40897607,Litterfall
+KBPL6,Mafic,34.55107135,Litterfall
+NPL1,Sedim,23.72600498,Litterfall
+NPL10,Sedim,55.72013663,Litterfall
+NPL11,Sedim,65.86056085,Litterfall
+NPL12,Sedim,71.12657542,Litterfall
+NPL2,Sedim,35.97595104,Litterfall
+NPL3,Sedim,29.30498574,Litterfall
+NPL4,Sedim,56.25438258,Litterfall
+NPL6,Sedim,30.55851802,Litterfall
+NPL7,Sedim,33.15971221,Litterfall
+NPL8,Sedim,31.18961404,Litterfall
+NPL9,Sedim,56.896427,Litterfall
+UPL1,Felsic,35.4384018,Litterfall
+UPL10,Felsic,33.78503906,Litterfall
+UPL11,Felsic,28.66366726,Litterfall
+UPL12,Felsic,36.99921516,Litterfall
+UPL2,Felsic,38.82642308,Litterfall
+UPL3,Felsic,37.6209439,Litterfall
+UPL4,Felsic,46.16487636,Litterfall
+UPL5,Felsic,38.12749136,Litterfall
+UPL6,Felsic,29.75585421,Litterfall
+UPL7,Felsic,32.89959467,Litterfall
+UPL8,Felsic,46.39499901,Litterfall
+UPL9,Felsic,44.63845096,Litterfall
+KBPL10,Mafic,13.44276498,Fresh leaves
+KBPL11,Mafic,16.49288014,Fresh leaves
+KBPL12,Mafic,19.03837161,Fresh leaves
+KBPL6,Mafic,14.47755766,Fresh leaves
+NPL1,Sedim,26.45681303,Fresh leaves
+NPL10,Sedim,27.43715749,Fresh leaves
+NPL11,Sedim,23.80388957,Fresh leaves
+NPL12,Sedim,29.46556608,Fresh leaves
+NPL2,Sedim,25.04838039,Fresh leaves
+NPL3,Sedim,22.68814845,Fresh leaves
+NPL4,Sedim,26.23810088,Fresh leaves
+NPL6,Sedim,22.32221186,Fresh leaves
+NPL7,Sedim,24.95684467,Fresh leaves
+NPL8,Sedim,22.23409653,Fresh leaves
+NPL9,Sedim,20.85497431,Fresh leaves
+UPL1,Felsic,19.37799831,Fresh leaves
+UPL10,Felsic,20.11723946,Fresh leaves
+UPL11,Felsic,14.94223163,Fresh leaves
+UPL12,Felsic,18.04263011,Fresh leaves
+UPL2,Felsic,20.08232119,Fresh leaves
+UPL3,Felsic,19.45272121,Fresh leaves
+UPL4,Felsic,14.97108699,Fresh leaves
+UPL5,Felsic,18.23463922,Fresh leaves
+UPL6,Felsic,18.14681988,Fresh leaves
+UPL7,Felsic,16.79924302,Fresh leaves
+UPL8,Felsic,15.25987522,Fresh leaves
+UPL9,Felsic,16.00847306,Fresh leaves
+KBPL10,Mafic,9.024146054,Mineral-soil
+KBPL11,Mafic,10.32836005,Mineral-soil
+KBPL12,Mafic,10.41432985,Mineral-soil
+KBPL1,Mafic,9.603804579,Mineral-soil
+KBPL2,Mafic,12.90378695,Mineral-soil
+KBPL3,Mafic,12.84492056,Mineral-soil
+KBPL4,Mafic,10.57209678,Mineral-soil
+KBPL5,Mafic,9.287694352,Mineral-soil
+KBPL6,Mafic,9.118071656,Mineral-soil
+KBPL7,Mafic,9.19698776,Mineral-soil
+KBPL8,Mafic,10.59111604,Mineral-soil
+KBPL9,Mafic,9.757035095,Mineral-soil
+NPL10,Sedim,17.71770593,Mineral-soil
+NPL11,Sedim,17.12464419,Mineral-soil
+NPL12,Sedim,16.26531726,Mineral-soil
+NPL1,Sedim,13.85078787,Mineral-soil
+NPL2,Sedim,14.87256263,Mineral-soil
+NPL3,Sedim,15.80017077,Mineral-soil
+NPL4,Sedim,17.7335245,Mineral-soil
+NPL5,Sedim,18.03504401,Mineral-soil
+NPL6,Sedim,13.80199964,Mineral-soil
+NPL7,Sedim,16.45325536,Mineral-soil
+NPL8,Sedim,15.25636741,Mineral-soil
+NPL9,Sedim,13.8224952,Mineral-soil
+UPL10,Felsic,9.056580527,Mineral-soil
+UPL11,Felsic,9.269071699,Mineral-soil
+UPL12,Felsic,12.59462441,Mineral-soil
+UPL1,Felsic,10.63732241,Mineral-soil
+UPL2,Felsic,9.715666065,Mineral-soil
+UPL3,Felsic,9.530753209,Mineral-soil
+UPL4,Felsic,8.976599171,Mineral-soil
+UPL5,Felsic,9.509440663,Mineral-soil
+UPL6,Felsic,9.43890538,Mineral-soil
+UPL7,Felsic,9.81612632,Mineral-soil
+UPL8,Felsic,10.89118269,Mineral-soil
+UPL9,Felsic,10.22353087,Mineral-soil
+KBPL10,Mafic,15.71665043,Litter layer
+KBPL11,Mafic,13.73561792,Litter layer
+KBPL1,Mafic,15.99737597,Litter layer
+KBPL12,Mafic,14.72613417,Litter layer
+KBPL2,Mafic,23.35090636,Litter layer
+KBPL3,Mafic,24.90401135,Litter layer
+KBPL4,Mafic,19.80911974,Litter layer
+KBPL5,Mafic,13.94828121,Litter layer
+KBPL6,Mafic,20.25636065,Litter layer
+KBPL7,Mafic,19.58801553,Litter layer
+KBPL8,Mafic,16.89823947,Litter layer
+KBPL9,Mafic,15.39274081,Litter layer
+NPL10,Sedim,32.14745557,Litter layer
+NPL11,Sedim,30.81615017,Litter layer
+NPL12,Sedim,27.89031524,Litter layer
+NPL1,Sedim,24.50693948,Litter layer
+NPL2,Sedim,27.98010149,Litter layer
+NPL3,Sedim,24.35689532,Litter layer
+NPL4,Sedim,21.08049616,Litter layer
+NPL5,Sedim,25.90199632,Litter layer
+NPL6,Sedim,19.42983054,Litter layer
+NPL7,Sedim,22.29808547,Litter layer
+NPL8,Sedim,23.94183428,Litter layer
+NPL9,Sedim,22.00327139,Litter layer
+UPL10,Felsic,19.17906752,Litter layer
+UPL11,Felsic,15.80978893,Litter layer
+UPL12,Felsic,20.40682222,Litter layer
+UPL1,Felsic,18.89239342,Litter layer
+UPL2,Felsic,18.82634832,Litter layer
+UPL3,Felsic,15.51051379,Litter layer
+UPL4,Felsic,16.16804649,Litter layer
+UPL5,Felsic,21.27050326,Litter layer
+UPL6,Felsic,17.40392518,Litter layer
+UPL7,Felsic,21.68633249,Litter layer
+UPL8,Felsic,20.83768052,Litter layer
+UPL9,Felsic,18.02475252,Litter layer
+KBP1,Mafic,14.15547703,O-horizon
+KBP10,Mafic,12.29333333,O-horizon
+KBP11,Mafic,12.06914894,O-horizon
+KBP12,Mafic,13.87815126,O-horizon
+KBP2,Mafic,16.31102362,O-horizon
+KBP3,Mafic,17.97402597,O-horizon
+KBP4,Mafic,13.81944444,O-horizon
+KBP4,Mafic,11.94095941,O-horizon
+KBP5,Mafic,13.38271605,O-horizon
+KBP6,Mafic,13.09859155,O-horizon
+KBP7,Mafic,12.19202899,O-horizon
+KBP8,Mafic,13.46031746,O-horizon
+KBP8,Mafic,12.55251142,O-horizon
+KBP9,Mafic,13.13095238,O-horizon
+NPL1,Sedim,20.10280374,O-horizon
+NPL10,Sedim,20.24766355,O-horizon
+NPL11,Sedim,21.68877551,O-horizon
+NPL11,Sedim,19.77209302,O-horizon
+NPL12,Sedim,18.77294686,O-horizon
+NPL2,Sedim,16.08284024,O-horizon
+NPL3,Sedim,19.56132075,O-horizon
+NPL4,Sedim,20.09649123,O-horizon
+NPL5,Sedim,20.86238532,O-horizon
+NPL6,Sedim,19.13043478,O-horizon
+NPL7,Sedim,19.91341991,O-horizon
+NPL8,Sedim,17.02380952,O-horizon
+NPL9,Sedim,18.58018868,O-horizon
+UPL1,Felsic,13.15384615,O-horizon
+UPL10,Felsic,13.06862745,O-horizon
+UPL11,Felsic,10.82608696,O-horizon
+UPL12,Felsic,16.87195122,O-horizon
+UPL2,Felsic,13.28497409,O-horizon
+UPL3,Felsic,10.97457627,O-horizon
+UPL4,Felsic,14.42253521,O-horizon
+UPL5,Felsic,14.23571429,O-horizon
+UPL6,Felsic,13.68686869,O-horizon
+UPL7,Felsic,14.8974359,O-horizon
+UPL8,Felsic,13.13432836,O-horizon
+UPL9,Felsic,16.62765957,O-horizon
